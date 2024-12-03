@@ -1,4 +1,11 @@
-## Hi there 👋
+<h1>Hi, I'm Michael! <a href="https://www.linkedin.com/in/michael-serrone-534252202">I.T Professional</a>,
+
+<h2>👨‍💻 Information Technology Projects:</h2>
+
+<h2> 🤳 Connect with me:</h2>
+[instagram]: https://www.instagram.com/
+[linkedin]: https://linkedin.com/in/michael-serrone-534252202/
+
 
 <!--
 **MichaelSerrone/MichaelSerrone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
